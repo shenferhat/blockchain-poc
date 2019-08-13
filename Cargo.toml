@@ -1,0 +1,10 @@
+[package]
+name = "avalanche"
+version = "0.1.0"
+authors = ["Shen Ferhat <shenferhat@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.5.4"
+sha2 = "0.8.0"
+hex = "0.3.2"
